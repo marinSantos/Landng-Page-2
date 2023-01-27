@@ -9,6 +9,7 @@
   margin: 0;
 }
 
+
 p {
   color: rgba(245, 245, 245, 0.747);
   font-size: 14px;
@@ -111,6 +112,7 @@ main {
   background-color: hsl(198, 60%, 50%);
   width: 180px;
   height: 39px;
+  margin-bottom: 20px;
   border-radius: 40px;
   display: flex;
   justify-content: center;
@@ -985,4 +987,5 @@ footer {
     flex-direction: column;
     row-gap: 20px;
   }
+
 }
